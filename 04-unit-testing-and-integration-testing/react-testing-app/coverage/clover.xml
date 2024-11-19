@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1732007208991" clover="3.2.0">
+  <project timestamp="1732007208992" name="All files">
+    <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6" elements="15" coveredelements="15" complexity="0" loc="9" ncloc="9" packages="1" files="1" classes="1"/>
+    <file name="CounterApp.jsx" path="C:\Users\mcerise\Documents\React Roadmap\04-unit-testing-and-integration-testing\react-testing-app\src\components\CounterApp.jsx">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <line num="5" count="8" type="stmt"/>
+      <line num="7" count="8" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="11" count="8" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="15" count="8" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="19" count="8" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
