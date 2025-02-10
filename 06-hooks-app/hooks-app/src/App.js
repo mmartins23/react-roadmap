@@ -6,7 +6,9 @@
 // import { FocusScreen } from "./components/04-useRef/FocusScreen";
 // import UseMemoExample from "./components/05-useMemo/useMemoExample";
 // import UseCallbackExample from "./components/06-useCallback/UseCallbackExample";
-import { TodoApp } from "./components/07-useReducer/TodoApp";
+//import { TodoApp } from "./components/07-useReducer/TodoApp";
+
+import { MainApp } from "./components/08-useContext/MainApp";
 
 function App() {
   return (
@@ -27,7 +29,7 @@ function App() {
       <hr/>
       <UseCallbackExample/>
       <hr/> */}
-      <TodoApp/>
+      <MainApp/>
     </div>
   );
 }
